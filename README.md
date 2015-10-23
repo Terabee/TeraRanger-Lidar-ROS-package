@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Rhoeby Dynamics R2D LiDAR ROS Node
 
 The Rhoeby Dynamics R2D LiDAR is a small, light, low-cost scanner that uses IR (Infra-Red) ranging technology from TeraRanger (website: http://teraranger.com). This scanner is designed to replace more expensive laser-based products and avoids the eye-safety issues associated with those devices. For more information on the scanner, please see our website: http://www.rhoeby.com.
@@ -157,3 +158,7 @@ Scanner does not enumerate (does not show up as COM port) under Windows
     Unplug scanner from USB
     Select "scan for hardware changes"
     Plug in scanner
+=======
+# TeraRanger-Lidar-ROS-package
+ROS package for TeraRanger Lidar
+>>>>>>> 87ab451d483a7276e69870b66e834b622518c4eb
